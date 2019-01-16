@@ -1,0 +1,8 @@
+D:\Dotnet project\SariritiIndiBIAll\SariritiIndiBIAll\bin\Debug\SariritiIndiBIAll.exe.config
+D:\Dotnet project\SariritiIndiBIAll\SariritiIndiBIAll\bin\Debug\SariritiIndiBIAll.exe
+D:\Dotnet project\SariritiIndiBIAll\SariritiIndiBIAll\bin\Debug\SariritiIndiBIAll.pdb
+D:\Dotnet project\SariritiIndiBIAll\SariritiIndiBIAll\bin\Debug\SpssLib.dll
+D:\Dotnet project\SariritiIndiBIAll\SariritiIndiBIAll\bin\Debug\SpssLib.xml
+D:\Dotnet project\SariritiIndiBIAll\SariritiIndiBIAll\obj\Debug\SariritiIndiBIAll.csprojResolveAssemblyReference.cache
+D:\Dotnet project\SariritiIndiBIAll\SariritiIndiBIAll\obj\Debug\SariritiIndiBIAll.exe
+D:\Dotnet project\SariritiIndiBIAll\SariritiIndiBIAll\obj\Debug\SariritiIndiBIAll.pdb
